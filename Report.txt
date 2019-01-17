@@ -1,0 +1,25 @@
+The test Script TC01 Execution Started
+********** Beginning of 'invoke' function **********
+Navigating to :https://www.amazon.com
+Maximizing the Window
+********** End of 'invoke' function **********
+********** Beginning of 'navigatetoBooksPage' function **********
+Mouse hovered on the Object: Departments
+Mouse hovered on the Object: Books & Audible
+Clicked on the Object: Books
+********** End of 'navigatetoBooksPage' function **********
+********** Beginning of 'searchForBook' function **********
+Clicked on the Object: Search Bar
+********** End of 'searchForBook' function **********
+********** Beginning of 'getBookDetails' function **********
+Clicked on the Object: First link in the Book result page
+Clicked on the Object: Paperback link in the Book details page
+name of the book is : The Data and Analytics Playbook: Proven Methods for Governed Data and Analytic Quality
+The price of new book is : $59.95
+The price of old book is : $42.00
+The price of kindle edition is : $48.88
+********** End of 'getBookDetails' function **********
+********** Beginning of 'logout' function **********
+Closed the Browser
+********** End of 'logout' function **********
+The test Script TC01 Execution Ended

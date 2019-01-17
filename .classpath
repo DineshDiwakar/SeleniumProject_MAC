@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="supportLibs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="supportLibs/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="supportLibs/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="supportLibs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="supportLibs/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="supportLibs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="supportLibs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="supportLibs/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="supportLibs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="supportLibs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="supportLibs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="supportLibs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="supportLibs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="supportLibs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="supportLibs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="supportLibs/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="supportLibs/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="supportLibs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
